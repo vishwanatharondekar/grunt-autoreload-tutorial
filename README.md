@@ -19,3 +19,6 @@ After installation finishes, start the server with following.
 ```shell
 grunt server
 ```
+
+[grunt]: http://gruntjs.com/
+[Getting Started]: http://gruntjs.com/getting-started
